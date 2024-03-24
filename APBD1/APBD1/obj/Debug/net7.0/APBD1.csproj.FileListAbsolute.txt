@@ -1,0 +1,15 @@
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/bin/Debug/net7.0/APBD1
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/bin/Debug/net7.0/APBD1.deps.json
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/bin/Debug/net7.0/APBD1.runtimeconfig.json
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/bin/Debug/net7.0/APBD1.dll
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/bin/Debug/net7.0/APBD1.pdb
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/APBD1.csproj.AssemblyReference.cache
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/APBD1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/APBD1.AssemblyInfoInputs.cache
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/APBD1.AssemblyInfo.cs
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/APBD1.csproj.CoreCompileInputs.cache
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/APBD1.dll
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/refint/APBD1.dll
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/APBD1.pdb
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/APBD1.genruntimeconfig.cache
+/Users/zubeyryavas/Desktop/APBD/APBD1/APBD1/obj/Debug/net7.0/ref/APBD1.dll
