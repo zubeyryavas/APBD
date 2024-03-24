@@ -1,7 +1,7 @@
 namespace APBD1;
 
 /*
-    Githum repository link : https://github.com/zubeyryavas/APBD
+    Github repository link : https://github.com/zubeyryavas/APBD
 */
 
 class Program
