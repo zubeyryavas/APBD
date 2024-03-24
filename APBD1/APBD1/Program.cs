@@ -1,4 +1,4 @@
-﻿namespace APBD1;
+namespace APBD1;
 
 class Program
 {
