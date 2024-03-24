@@ -13,14 +13,14 @@ class Program
 
     public static int Average(params int[] intArray)
     {
-        int sum = 0;
+        int final = 0;
 
         for (int i = 0; i < intArray.Length; i++)
         {
-            sum += intArray[i];
+            final += intArray[i];
         }
 
-        return sum / intArray.Length;
+        return final / intArray.Length;
     }
 
     public static int FindMax(params int[] intArray)
