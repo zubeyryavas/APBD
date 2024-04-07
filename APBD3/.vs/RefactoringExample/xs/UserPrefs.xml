@@ -7,34 +7,27 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.LegacyAppTests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LegacyAppTests/UserServiceTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LegacyApp/UserService.cs">
     <Files>
-      <File FileName="LegacyApp/UserService.cs" Line="20" Column="42" />
-      <File FileName="LegacyApp/UserValidationService.cs" Line="50" Column="1" />
+      <File FileName="LegacyApp/UserService.cs" Line="40" Column="1" />
+      <File FileName="LegacyApp/UserValidationService.cs" Line="40" Column="36" />
       <File FileName="LegacyAppConsumer/Program.cs" Line="1" Column="1" />
-      <File FileName="LegacyApp/UserDataAccess.cs" Line="1" Column="1" />
+      <File FileName="LegacyApp/UserDataAccess.cs" Line="23" Column="1" />
       <File FileName="LegacyApp/ClientRepository.cs" Line="25" Column="1" />
-      <File FileName="LegacyApp/User.cs" Line="1" Column="1" />
-      <File FileName="LegacyApp/Client.cs" Line="1" Column="1" />
+      <File FileName="LegacyApp/User.cs" Line="15" Column="2" />
+      <File FileName="LegacyApp/Client.cs" Line="4" Column="6" />
       <File FileName="LegacyApp/UserCreditService.cs" Line="42" Column="2" />
-      <File FileName="LegacyAppTests/UserServiceTests.cs" Line="79" Column="73" />
-      <File FileName="LegacyAppTests/GlobalUsings.cs" Line="1" Column="1" />
+      <File FileName="LegacyAppTests/UserServiceTests.cs" Line="15" Column="1" />
+      <File FileName="LegacyAppTests/GlobalUsings.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RefactoringExample">
-            <Node name="LegacyAppConsumer">
-              <Node name="Dependencies" expanded="True">
-                <Node name="ProjectDependencies" expanded="True" />
-              </Node>
+            <Node name="LegacyApp">
+              <Node name="UserService.cs" selected="True" />
             </Node>
-            <Node name="LegacyAppTests">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="UserServiceTests.cs" selected="True" />
-            </Node>
+            <Node name="LegacyAppConsumer" expanded="True" />
           </Node>
         </State>
       </Pad>
