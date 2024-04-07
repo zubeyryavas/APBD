@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{8924C743-B84E-4B77-8944-0E718815E1D0}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LegacyAppConsumer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LegacyAppTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LegacyApp/UserService.cs">
+    <Files>
+      <File FileName="LegacyApp/UserService.cs" Line="40" Column="1" />
+      <File FileName="LegacyApp/UserValidationService.cs" Line="40" Column="36" />
+      <File FileName="LegacyAppConsumer/Program.cs" Line="1" Column="1" />
+      <File FileName="LegacyApp/UserDataAccess.cs" Line="23" Column="1" />
+      <File FileName="LegacyApp/ClientRepository.cs" Line="25" Column="1" />
+      <File FileName="LegacyApp/User.cs" Line="15" Column="2" />
+      <File FileName="LegacyApp/Client.cs" Line="4" Column="6" />
+      <File FileName="LegacyApp/UserCreditService.cs" Line="42" Column="2" />
+      <File FileName="LegacyAppTests/UserServiceTests.cs" Line="15" Column="1" />
+      <File FileName="LegacyAppTests/GlobalUsings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RefactoringExample">
+            <Node name="LegacyApp">
+              <Node name="UserService.cs" selected="True" />
+            </Node>
+            <Node name="LegacyAppConsumer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RefactoringExample" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
