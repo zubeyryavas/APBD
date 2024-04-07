@@ -3,6 +3,7 @@ namespace LegacyApp
 {
 	public class UserValidationService
 	{
+
 		public UserValidationService()
 		{
 		}

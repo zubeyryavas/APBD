@@ -35,10 +35,10 @@ namespace LegacyApp
                 LastName = lastName
             };
 
-            return setUserAccount(user, client);
+            return setUserCreditAccount(user, client);
         }
 
-        private User setUserAccount(User user, Client client)
+        private User setUserCreditAccount(User user, Client client)
         {
             if (client.Type == "VeryImportantClient")
             {
