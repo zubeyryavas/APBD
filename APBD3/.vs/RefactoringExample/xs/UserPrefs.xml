@@ -10,30 +10,28 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="LegacyApp/UserService.cs">
     <Files>
       <File FileName="LegacyApp/UserService.cs" Line="40" Column="1" />
-      <File FileName="LegacyApp/UserValidationService.cs" Line="40" Column="36" />
-      <File FileName="LegacyAppConsumer/Program.cs" Line="1" Column="1" />
-      <File FileName="LegacyApp/UserDataAccess.cs" Line="23" Column="1" />
-      <File FileName="LegacyApp/ClientRepository.cs" Line="25" Column="1" />
-      <File FileName="LegacyApp/User.cs" Line="15" Column="2" />
-      <File FileName="LegacyApp/Client.cs" Line="4" Column="6" />
-      <File FileName="LegacyApp/UserCreditService.cs" Line="42" Column="2" />
-      <File FileName="LegacyAppTests/UserServiceTests.cs" Line="15" Column="1" />
+      <File FileName="LegacyApp/UserValidationService.cs" />
+      <File FileName="LegacyAppConsumer/Program.cs" />
+      <File FileName="LegacyApp/UserDataAccess.cs" />
+      <File FileName="LegacyApp/ClientRepository.cs" />
+      <File FileName="LegacyApp/User.cs" />
+      <File FileName="LegacyApp/Client.cs" />
+      <File FileName="LegacyApp/UserCreditService.cs" />
+      <File FileName="LegacyAppTests/UserServiceTests.cs" />
       <File FileName="LegacyAppTests/GlobalUsings.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RefactoringExample">
-            <Node name="LegacyApp">
-              <Node name="UserService.cs" selected="True" />
-            </Node>
+            <Node name="LegacyApp" expanded="True" />
             <Node name="LegacyAppConsumer" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="RefactoringExample" selected="True" />
+          <Node name="RefactoringExample" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
